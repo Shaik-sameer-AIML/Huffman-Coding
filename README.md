@@ -83,7 +83,7 @@ for (char, frequency) in freq:
 
 ### Print the characters and its huffmancode
 
-
+https://github.com/Shaik-sameer-AIML/Huffman-Coding/blob/main/a.PNG
 
 
 ## Result
